@@ -24,7 +24,7 @@ and this dependency:
 
 last version have only one method:
 
-```javascript
+```linguist
 Collection<PlaceResult> results = SearchPlace.byString(googleAPIKey, languageCode, query);
 ```
 
