@@ -29,8 +29,9 @@ Collection<PlaceResult> results = SearchPlace.byString(googleAPIKey, languageCod
 ```
 
 this is the results' structure
+
 ```java
-  String FormattedAddress;
+  	String FormattedAddress;
 	String Locality;
 	String city;
 	String province;
