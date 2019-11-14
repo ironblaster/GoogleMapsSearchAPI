@@ -31,7 +31,7 @@ Collection<PlaceResult> results = SearchPlace.byString(googleAPIKey, languageCod
 this is the results' structure
 
 ```javascript
-  	String FormattedAddress; 	//ex: 221 Baker St, Marylebone, London NW1 6XE, UK
+  	String FormattedAddress; 	//ex: 221B Baker St, Marylebone, London NW1 6XE, UK
 	String Locality;		     
 	String city;			
 	String province;		//ex: Greater London
