@@ -22,3 +22,10 @@ and this dependency:
 ```
 
 
+last version have only one method:
+
+```java
+Collection<PlaceResult> results = SearchPlace.byString(googleAPIKey, languageCode, query);
+```
+
+
