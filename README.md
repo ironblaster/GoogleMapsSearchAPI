@@ -28,4 +28,15 @@ last version have only one method:
 Collection<PlaceResult> results = SearchPlace.byString(googleAPIKey, languageCode, query);
 ```
 
+this is the results' structure
+```java
+  String FormattedAddress;
+	String Locality;
+	String city;
+	String province;
+	String provinceAbbreviation;
+	String region;
+	String country;
+	String postalCode;
+```
 
