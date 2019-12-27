@@ -39,8 +39,6 @@ public class SearchPlace {
 				    .apiKey(googleAPIKey)
 				    .build();
 			
-			
-			
 			FindPlaceFromText results = PlacesApi.
 					findPlaceFromText(context,query, InputType.TEXT_QUERY)
 					.language(languageCode)
@@ -95,6 +93,8 @@ public class SearchPlace {
 					placeresults.add(singleres);
 					
 				}
+			
+				context.shutdown();
 				return placeresults;
 					
 		
