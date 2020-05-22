@@ -1,5 +1,5 @@
 
-[![](https://jitci.com/gh/ironblaster/GoogleMapsSearchAPI/svg)](https://jitci.com/gh/ironblaster/GoogleMapsSearchAPI)
+[![](https://jitci.com/gh/ironblaster/GoogleMapsSearchAPI/svg)](https://jitci.com/gh/ironblaster/GoogleMapsSearchAPI) ![Java CI with Maven](https://github.com/ironblaster/GoogleMapsSearchAPI/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 
 # GoogleMapsSearchAPI
