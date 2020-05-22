@@ -1,3 +1,7 @@
+
+[![](https://jitci.com/gh/ironblaster/GoogleMapsSearchAPI/svg)](https://jitci.com/gh/ironblaster/GoogleMapsSearchAPI)
+
+
 # GoogleMapsSearchAPI
 Search on google maps Places API
 
